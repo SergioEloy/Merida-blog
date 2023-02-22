@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.title{
+    color: red;
+}
+
+subt{
+        color: green;
+}
+
+.intro{
+    background-color: black;
+    color: white;
+}
+
+.history{
+    background-color: lightgrey;
+}
+
+.favfood{
+    background-color: beige;
+}
+
+.int{
+    background-color: blanchedalmond;
+    
+}
+
+img {
+    width: 70%;
+}
